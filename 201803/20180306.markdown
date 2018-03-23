@@ -1,0 +1,7 @@
+## bootstrap-select中添加默认提示语句，且不与option向冲突？
+1. 设置select为多选(multiple),但是限制option选择的数量为1
+2. 如果一定要使用单选的话，则必须在options中添加一个和title名称相同的option
+## npm插件的淘宝镜像仓库地址
+- http://npm.taobao.org/
+    1. 使用cnpm代替npm
+        - 执行后面这条命令　`npm install -g cnpm --registry=https://registry.npm.taobao.org`
